@@ -2,9 +2,14 @@
 
 
 Problem Statement:
-Write a C/C++/Python/Java/NodeJS/JavaScript program that plays thegame of connect four. 
+Write a C/C++/Python/Java/NodeJS/JavaScript program that plays thegame of connect four.
+
+
 To see how to play the traditional 2-person game, visit page:
 https://wikis.swarthmore.edu/ENGR005_2012/index.php?title=Connect_Four_Final_Report
+
+
+
 Of course, our connect four is going to have a slight twist! We will support the traditional, 6 x 7 board
 with connecting four horizontally, diagonally, and vertically, but we will also support an n x m board with
 connecting p pieces. You will take these values as command-line arguments with these options? r, ?c, and ?p
